@@ -1,0 +1,87 @@
+body {
+  background-color: #19A2AE;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+h1 {
+  font-size: 18px;
+  color: #2D3248;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: #6A6F81;
+  text-align: center;
+}
+
+.heading-light {
+  font-weight: 400;
+  color: #6A6F81;
+}
+
+.top-pattern {
+  height: 600px;
+  right: 200px;
+  position: relative;
+  bottom: 300px;
+  width: 600px;
+}
+
+.middle-box {
+  border-radius: 25px;
+  background-color: white;
+  position: absolute;
+  top: 33%;
+  left: 33%;
+  width: 350px;
+  height: 450px;
+}
+
+.pattern-card {
+  border-radius: 25px 25px 0 0;
+  width: 100%;
+}
+
+.Victor-mugshot {
+  border: 5px solid white;
+  border-radius: 50%;
+  margin-left: 33%;
+  margin-top: -50px;
+  width: 33%;
+}
+
+.stat-box-1 {
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 0;
+  width: 32%;
+}
+
+.stat-box-2 {
+  display: inline-block;
+  margin-bottom: 0;
+  width: 32%;
+}
+
+.stat-box-3 {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-right: 0;
+  width: 32%;
+}
+
+.attribution {
+  top: 50px;
+  position: relative;
+  text-align: left;
+  width: 400px;
+}
+
+.bottom-pattern {
+  height: 600px;
+  left: 600px;
+  position: relative;
+  width: 600px;
+  top: 100px;
+}
